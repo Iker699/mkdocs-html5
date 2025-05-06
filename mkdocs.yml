@@ -12,4 +12,4 @@ nav:
 markdown_extensions:
   - admonition
   
-site_dir: docs
+site_dir: docs_html
