@@ -1,0 +1,13 @@
+site_name: Guía de HTML5
+theme:
+  name: material
+
+nav:
+  - Inicio: index.md
+  - Sección 1:
+      - Estructura HTML: seccion1/sub1.md
+      - Elementos comunes: seccion1/sub2.md
+  - Recursos y enlaces útiles: seccion2.md
+
+markdown_extensions:
+  - admonition
