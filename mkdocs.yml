@@ -11,3 +11,5 @@ nav:
 
 markdown_extensions:
   - admonition
+  
+site_dir: docs
